@@ -1,5 +1,5 @@
 # summernote-Footnotes
-A plugin for Summernote WYSIWYG editor that enables you to insert Footnotes at the cursor position. It also adds the footnote at the end of the body
+A Summernote plugin that allows you to insert footnotes seamlessly at the cursor position while automatically appending them to the end of the editor's content.
 
 ## Installation
 
